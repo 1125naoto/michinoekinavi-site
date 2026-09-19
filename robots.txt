@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michinoekinavi.jp/sitemap.xml
